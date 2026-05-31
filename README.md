@@ -1,20 +1,20 @@
-# The Sanctuary Method
+# The Sanctuary Method (TSM)
 
-A self-designed weekly learning protocol combining multisensory anchoring, 
+A self-designed weekly learning protocol combining multisensory anchoring,
 structured retrieval, and subconscious consolidation.
 
-Developed by Rafan Khan U — Independent Researcher, May 2026.
+**Rafan Khan U** — Independent Researcher, May 2026
 
 ---
 
 ## What is TSM?
 
-The Sanctuary Method is a seven-day learning protocol built for one specific 
+The Sanctuary Method is a seven-day learning protocol built for one specific
 problem: wanting to learn when the energy to learn is gone.
 
-It concentrates all new input on Sundays, converts weekdays into frictionless 
-recall sessions, and uses a consistent multisensory environment — a dedicated 
-soundscape, a specific perfume, and a sustained mental visualization — to create 
+It concentrates all new input on Sundays, converts weekdays into frictionless
+recall sessions, and uses a consistent multisensory environment — a dedicated
+soundscape, a specific perfume, and a sustained mental visualization — to create
 a reproducible internal state for encoding and retrieval.
 
 The method does not fight fatigue. It works within it.
@@ -29,8 +29,8 @@ The method does not fight fatigue. It works within it.
 - **Thu / Fri** — Context-free recall without the Sanctuary
 - **Saturday** — Diagnostic self-assessment and prep for Sunday
 
-Each session ends at a fixed 20-minute timer regardless of task completion 
-(Zeigarnik Effect), followed by a 3–5 minute eyes-closed wind-down before 
+Each session ends at a fixed 20-minute timer regardless of task completion
+(Zeigarnik Effect), followed by a 3–5 minute eyes-closed wind-down before
 deactivating the sensory anchors.
 
 ---
@@ -43,8 +43,17 @@ Tested over 11 days using Japanese hiragana and katakana:
 - Fluent hiragana recognition achieved
 - Functional katakana recall confirmed via Anki
 - Zero relearning cost after multi-day gaps
-- Baseline comparison (rote, no Sanctuary): ~15 characters, session abandoned 
+- Baseline comparison (rote, no Sanctuary): ~15 characters, session abandoned
   at 10 minutes
+
+---
+
+## Paper
+
+[The Sanctuary Method (PDF)]
+
+Also published on Substack:
+[thesanctuarymethod.substack.com](https://thesanctuarymethod.substack.com/p/the-sanctuary-method)
 
 ---
 
