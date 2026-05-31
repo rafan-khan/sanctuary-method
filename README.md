@@ -50,7 +50,7 @@ Tested over 11 days using Japanese hiragana and katakana:
 
 ## Paper
 
-[The Sanctuary Method (PDF)]
+[The Sanctuary Method (PDF)](./The%20Sanctuary%20Method%20(TSM).PDF)
 
 Also published on Substack:
 [thesanctuarymethod.substack.com](https://thesanctuarymethod.substack.com/p/the-sanctuary-method)
