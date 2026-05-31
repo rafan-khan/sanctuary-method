@@ -50,7 +50,13 @@ Tested over 11 days using Japanese hiragana and katakana:
 
 ## Paper
 
-[The Sanctuary Method (PDF)](https://github.com/rafan-khan/sanctuary-method/blob/main/The%20Sanctuary%20Method%20%28TSM%29.pdf)
+[The Sanctuary Method (PDF)](https://doi.org/10.5281/zenodo.20474705)
+
+[
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20474705.svg)
+
+](https://doi.org/10.5281/zenodo.20474705)
 
 Also published on Substack:
 [thesanctuarymethod.substack.com](https://thesanctuarymethod.substack.com/p/the-sanctuary-method)
